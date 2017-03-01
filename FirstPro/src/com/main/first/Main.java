@@ -7,6 +7,6 @@ public class Main
 {
     public static void main(String[] args) {
         System.out.println("hello lool");
-        System.out.println("test for second commit");
+        System.out.println("hello GIT");
     }
 }
